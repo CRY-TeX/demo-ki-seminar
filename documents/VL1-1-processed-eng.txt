@@ -1,0 +1,318 @@
+KI-26: Current Issues in Artificial Intelligence
+organizational
+Faculty of Applied Computer Science
+Technical University of Deggendorf
+Summer semester 2023
+AI seminar
+Summer semester 2023
+1/7
+Goals of the course
+Practice-oriented application of current AI methods in practice
+Overview of current AI topics
+Evaluation and comparison of new approaches
+Getting to know different AI frameworks in Python
+AI seminar
+Summer semester 2023
+2/7
+timetable
+Today
+organizational
+topic presentation
+team finding
+guest lecture
+AI seminar
+Summer semester 2023
+3/7
+timetable
+Today
+organizational
+topic presentation
+team finding
+guest lecture
+Until Easter
+March 27 Introduction to scikit-learn and keras
+from April 3rd: preliminary meetings according to schedule (in iLearn)
+AI seminar
+Summer semester 2023
+3/7
+timetable
+After Easter
+11:30 a.m. Block lectures
+2:00 p.m. Block preliminary meetings
+AI seminar
+Summer semester 2023
+4/7
+timetable
+After Easter
+11:30 a.m. Block lectures
+2:00 p.m. Block preliminary meetings
+field trip
+on Wednesday, May 17 at Ars Electronica
+please register by Friday, March 24th
+Link in iLearn
+Bus from THD
+AI seminar
+Summer semester 2023
+4/7
+exam performance
+No exam
+AI seminar
+Summer semester 2023
+5/7
+exam performance
+No exam
+Evaluation of the lectures of your fellow students
+Participation through discussion contributions
+In a team of three:
+about 20 minutes podcast
+approx. 30 minutes lecture on a topic
+- Approx. 30 minutes of practical exercise
+- Development as a blog article
+Absence: You work the omitted content in the form of a written
+Subsequent summaries and submit them unsolicited by e-mail
+within a week after.
+AI seminar
+Summer semester 2023
+5/7
+materials
+All materials are distributed via iLearn
+Submission of the Learning Diaries via iLearn
+Please ask questions in the question forum in iLearn (and not by email)
+AI seminar
+Summer semester 2023
+6/7
+AI seminar
+Summer semester 2023
+7/7
+Literature references
+H. Kinsley and D. Kukieła, Neural Networks from Scratch in Python,
+NNFS.io, 2020.
+F Chollet, Deep learning with Python, Simon and Schuster, 2021.
+Matthes, E., Python Crash Course: A Hands-On, Project-Based
+Introduction to Programming. United States, No Starch Press, 2015.
+AI seminar
+Summer semester 2023
+8/7
+KI-26: Current Issues in Artificial Intelligence
+topic presentation
+Faculty of Applied Computer Science
+Technical University of Deggendorf
+Summer semester 2023
+AI seminar
+Summer semester 2023
+1/15
+Sequence
+All topics are presented
+You look for two partners and book a topic together
+The topics can be booked in iLearn from today at 1:00 p.m. (FCFS)
+Appointment calendar according to topic selection in iLearn
+Discussions in the 1:00 p.m. slot
+Lectures in the 11:30 a.m. slot
+Possibly further guest lectures (see schedule)
+AI seminar
+Summer semester 2023
+2 / 15
+Sequence
+Process and important deadlines
+1
+3+ weeks before your own lecture date
+Discussion related Work
+Discussion idea presentation
+- Discussion idea demo
+- Discussion podcast concept
+AI seminar
+Summer semester 2023
+3 / 15
+Sequence
+Process and important deadlines
+1
+3+ weeks before your own lecture date
+Discussion related Work
+Discussion idea presentation
+- Discussion idea demo
+- Discussion podcast concept
+2
+Podcast recording
+AI seminar
+Summer semester 2023
+3 / 15
+Sequence
+Process and important deadlines
+1
+3+ weeks before your own lecture date
+Discussion related Work
+Discussion idea presentation
+- Discussion idea demo
+- Discussion podcast concept
+2
+3
+Podcast recording
+1 week before your own lecture date
+Discussion 2nd draft presentation + demo
+Submission outline drafting
+- Delivery of the final presentation + demo
+AI seminar
+Summer semester 2023
+3 / 15
+Sequence
+Process and important deadlines
+1
+3+ weeks before your own lecture date
+Discussion related Work
+Discussion idea presentation
+- Discussion idea demo
+- Discussion podcast concept
+2
+3
+Podcast recording
+1 week before your own lecture date
+Discussion 2nd draft presentation + demo
+Submission outline drafting
+- Delivery of the final presentation + demo
+4
+End of lecture period (Friday, July 7th before the end of the day)
+submission of the draft
+AI seminar
+Summer semester 2023
+3 / 15
+T1: Large Language Models
+podcast
+How do LLMs work?
+ChatGPT vs open models?
+How are LLMs changing our everyday lives?
+Speech
+Presentation and comparison of the common architectures
+demo
+Entering queries, comparing different LLMs
+Combination with LongChain
+AI seminar
+Summer semester 2023
+4 / 15
+T2: Time series analysis
+podcast
+What is time series analysis? What are typical applications?
+Traditional methods vs. Deep Learning
+Speech
+Overview of common methods
+Which architectures are common?
+demo
+Time series analysis of stocks, water levels, etc.
+Comparison of classic ML vs. DL
+AI seminar
+Summer semester 2023
+5 / 15
+T3: Face aging
+podcast
+What is face aging and why is it relevant?
+How does it work?
+Speech
+What are the common architectures and what do they look like?
+What Are the Challenges of Face Aging?
+demo
+Notebook in which you can insert your own photo and specify it
+how many years to adjust the age.
+AI seminar
+Summer semester 2023
+6 / 15
+T4: Colorize
+podcast
+How does this work?
+Where does the color information come from?
+Speech
+What approaches are there?
+What are the common architectures and what do they look like?
+demo
+A notebook in which black and white photos are transformed into color photos.
+AI seminar
+Summer semester 2023
+7/15
+T5: Recommendation Systems
+podcast
+Discussion of common systems
+How do recommendation systems work?
+Speech
+What approaches are there and how do they work?
+What is the current state of research?
+demo
+Example implementation for a recommendation system of your choice
+AI seminar
+Summer semester 2023
+8 / 15
+T6: Bayesian modelling
+podcast
+What is Bayesian modelling?
+What applications are there?
+Speech
+Introduction to Bayesian Modeling
+Explanation of the procedure
+demo
+sample model
+AI seminar
+Summer semester 2023
+9/15
+T7: Process Mining
+podcast
+What is process mining?
+Where does finet process mining take place in everyday life?
+Speech
+What methods are there?
+Comparison: Classic Process Mining vs. Deep Learning
+demo
+Process mining example in Python
+AI seminar
+Summer semester 2023
+10/15
+T8: Voice Recognition
+podcast
+How does speech recognition work?
+Speech
+How did speech recognition evolve?
+What role does deep learning play?
+demo
+Example implementation for Speech to Text
+AI seminar
+Summer semester 2023
+11/15
+T9: Dialect in speech recognition
+podcast
+Why is dialect a challenge in speech recognition?
+Speech
+What approaches are there to avoid dialect?
+demo
+Demo of different approaches
+AI seminar
+Summer semester 2023
+12/15
+T10: Transfer Learning in Speech Recognition
+podcast
+What is Transfer Learning and why is it popular?
+Speech
+What approaches are there?
+What challenges does it solve?
+demo
+Transferlearning demo using an example
+AI seminar
+Summer semester 2023
+13/15
+T11: Auto Deep Learning
+podcast
+What is AutoDL?
+What are the advantages and disadvantages of AutoDL?
+Speech
+What approaches and frameworks are there?
+demo
+Demonstration of one or more AutoDL frameworks
+AI seminar
+Summer semester 2023
+14 / 15
+T12: Automatic feature extraction
+podcast
+What is feature extraction?
+Why is feature extraction automated?
+Speech
+What approaches are there and what are the advantages and disadvantages?
+demo
+Implementation of an example with one or more libraries
+AI seminar
+Summer semester 2023
+15 / 15

@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+langchain = "*"
+jupyterlab = "*"
+openai = "*"
+python-dotenv = "*"
+chromadb = "*"
+python-magic = "*"
+nltk = "*"
+tiktoken = "*"
+wikipedia = "*"
+requests = "*"
+google-search-results = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
